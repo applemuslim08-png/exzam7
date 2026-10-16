@@ -354,6 +354,9 @@
   .top-\[1240px\] {
     top: 1240px;
   }
+  .top-\[1300px\] {
+    top: 1300px;
+  }
   .top-\[2000px\] {
     top: 2000px;
   }
@@ -485,6 +488,9 @@
   }
   .hidden {
     display: none;
+  }
+  .inline-block {
+    display: inline-block;
   }
   .table {
     display: table;
@@ -841,6 +847,9 @@
     }
     .lg\:flex {
       display: flex;
+    }
+    .lg\:hidden {
+      display: none;
     }
     .lg\:inline {
       display: inline;
